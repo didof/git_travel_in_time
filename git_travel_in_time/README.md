@@ -1,3 +1,3 @@
 # GIT Travel in Time
 
-Initial commit
+This repository is associated with my *Compact Guide to Time Travel with Git* post on DEV.TO
